@@ -9,7 +9,8 @@
 ### Прилагаемые файлы/ссылки:
 * [1лр.pdf](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/1лр.pdf) - готовый pdf-файл с вёрсткой
 * [Гайд](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) от создателей overleaf(LaTeX за 30 минут)
-
+![](1.jpg)
+![](2.png)
 # Лабараторная работа №3
 ### Цель:
 Ознакомится с системой управлениями версиями Git и веб-сервисом GitHub
